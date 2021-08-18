@@ -1,0 +1,45 @@
+{
+  "ui": {
+    "blockTunes": {
+      "toggler": {
+        "Click to tune": "کلیک برای ارتقا",
+        "or drag to move": "یا بکش برای حرکت"
+      }
+    },
+    "inlineToolbar": {
+      "converter": {
+        "Convert to": "تبدیل به"
+      }
+    },
+    "toolbar": {
+      "toolbox": {
+        "Add": "افزودن"
+      }
+    }
+  },
+  "toolNames": {
+    "Text": "متن",
+    "Link": "لینک",
+    "Bold": "ضخیم",
+    "Italic": "کج"
+  },
+  "tools": {
+    "link": {
+      "Add a link": "افزودن لینک"
+    },
+    "stub": {
+      "The block can not be displayed correctly.": "بلاک به درستی قابل نمایش نیست"
+    }
+  },
+  "blockTunes": {
+    "delete": {
+      "Delete": "حذف"
+    },
+    "moveUp": {
+      "Move up": "انتقال به بالا"
+    },
+    "moveDown": {
+      "Move down": "انتقال به پایین"
+    }
+  }
+}
